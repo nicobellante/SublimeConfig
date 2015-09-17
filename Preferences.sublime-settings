@@ -1,8 +1,9 @@
 {
-	"color_scheme": "Packages/User/SublimeLinter/dark-pastel (SL).tmTheme",
+	"color_scheme": "Packages/User/SublimeLinter/Atom Dark (SL).tmTheme",
+	"font_face": "Inconsolata",
+	"font_size": 13,
 	"ignored_packages":
 	[
 	],
-	"theme": "Brogrammer.sublime-theme",
 	"vintage_start_in_command_mode": true
 }
